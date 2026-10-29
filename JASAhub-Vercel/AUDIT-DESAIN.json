@@ -1,0 +1,18 @@
+{
+  "source": "JASAhub-id-fullcode.zip, version 10",
+  "style_blocks_unchanged": 2,
+  "style_sha256": [
+    "9bc534df55b4fa0adbe109417dee1dac9ec6006a07645e2466734b1994e0db45",
+    "16434514c36bc8de1a476539624fd6a121bcffb2ef0e0900d15234a33289d86f"
+  ],
+  "html_dom_before_script_unchanged": true,
+  "external_stylesheets": [
+    "<link href=\"https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap\" rel=\"stylesheet\">"
+  ],
+  "local_script": "/assets/jasahub.js",
+  "local_script_exists": true,
+  "visual_browser_verified": false,
+  "logo_asset": "/assets/logo.png",
+  "logo_bytes_identical_to_original": true,
+  "logo_sha256": "44a68156fc440c4f6e5ca455750ee19649bf687fae2cc689963c971d20283bb0"
+}
